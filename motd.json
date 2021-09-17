@@ -1,15 +1,17 @@
- [
-      {
-        "date": "08/14/21",
-        "story": "The Swap Meet is now back open. You can now list multiple quantity offers! These are perfect for selling sets of canvases."
-      },
-      {
-        "date": "08/14/21",
-        "story": "Bitgem now has a trollbox! Click the chat icon in the lower right corner of this page to display it."
-      },
-      {
-        "date": "08/14/21",
-        "story": "Bitgem V2 is launched! We now feature a marketplace and gem engraving! We will be listing bargains in the swap meet all weekend long"
-      },
-      
+// 20210917164919
+// https://raw.githubusercontent.com/nftgem/nftgem.github.io/2c26827531711edc644564716cce18da346ada21/motd.json
+
+[
+  {
+    "date": "08/14/21",
+    "story": "The Swap Meet is now back open. You can now list multiple quantity offers! These are perfect for selling sets of canvases."
+  },
+  {
+    "date": "08/14/21",
+    "story": "Bitgem now has a trollbox! Click the chat icon in the lower right corner of this page to display it."
+  },
+  {
+    "date": "08/14/21",
+    "story": "Bitgem V2 is launched! We now feature a marketplace and gem engraving! We will be listing bargains in the swap meet all weekend long"
+  }
 ]
